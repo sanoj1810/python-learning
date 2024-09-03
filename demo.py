@@ -14,7 +14,7 @@ class student :
         print("his address",self.address)
         print("his phone number",self.phone_number)
 
-detail = student("sanoj",'arunachalam nagar',8939100547)
+detail = student("sanoj",'arunachalam nagar',8939120547)
 detail.inform()
 
 
